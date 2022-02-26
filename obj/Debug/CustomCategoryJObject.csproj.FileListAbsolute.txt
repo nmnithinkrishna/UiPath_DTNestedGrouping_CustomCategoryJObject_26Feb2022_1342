@@ -1,0 +1,6 @@
+C:\Users\nithinkrishna.nm\Downloads\CustomCategoryJObject\bin\Debug\CustomCategoryJObject.dll
+C:\Users\nithinkrishna.nm\Downloads\CustomCategoryJObject\bin\Debug\CustomCategoryJObject.pdb
+C:\Users\nithinkrishna.nm\Downloads\CustomCategoryJObject\obj\Debug\CustomCategoryJObject.csproj.CoreCompileInputs.cache
+C:\Users\nithinkrishna.nm\Downloads\CustomCategoryJObject\obj\Debug\CustomCategoryJObject.dll
+C:\Users\nithinkrishna.nm\Downloads\CustomCategoryJObject\obj\Debug\CustomCategoryJObject.pdb
+C:\Users\nithinkrishna.nm\Downloads\CustomCategoryJObject\obj\Debug\CustomCategoryJObject.csproj.AssemblyReference.cache
